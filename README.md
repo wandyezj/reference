@@ -4,6 +4,9 @@
 
 [Doctorow, Cory. “Unauthorized Bread: Real Rebellions Involve Jailbreaking IoT Toasters.” Ars Technica. Ars Technica, January 22, 2020. https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/.][https://raw.github.com/wandyezj/reference/master/unauthorized-bread.pdf]
 
+
 ## Links
 
 [Selingo, Story by Jeffrey. “The False Promises of Worker Retraining.” The Atlantic. Atlantic Media Company, January 8, 2018. https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/.](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/)
+
+[Nakamoto, Satoshi. Bitcoin: A peer-to-peer electronic cash system. Manubot, 2019.](https://bitcoin.org/bitcoin.pdf)

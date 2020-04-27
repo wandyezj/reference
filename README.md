@@ -4,6 +4,7 @@
 
 [Doctorow, Cory. “Unauthorized Bread: Real Rebellions Involve Jailbreaking IoT Toasters.” Ars Technica. Ars Technica, January 22, 2020. https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/.][https://raw.github.com/wandyezj/reference/master/unauthorized-bread.pdf]
 
+[Armour, Phillip G. "The five orders of ignorance." Communications of the ACM 43, no. 10 (2000): 17-20.][https://raw.github.com/wandyezj/reference/master/five-orders-of-ignorance.pdf]
 
 ## Links
 

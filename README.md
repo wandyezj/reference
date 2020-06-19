@@ -14,6 +14,8 @@
 
 [Stroustrup, Bjarne. "Thriving in a crowded and changing world: C++ 2006–2020." Proceedings of the ACM on Programming Languages 4, no. HOPL (2020): 1-168.](https://raw.github.com/wandyezj/reference/master/thriving-in-a-crowded-and-changing-world-C++-2006–2020.pdf)
 
+[Armour, Phillip G. "The five orders of ignorance." Communications of the ACM 43, no. 10 (2000): 17-20.][https://raw.github.com/wandyezj/reference/master/five-orders-of-ignorance.pdf]
+
 ## Links
 
 [Selingo, Story by Jeffrey. “The False Promises of Worker Retraining.” The Atlantic. Atlantic Media Company, January 8, 2018. https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/.](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/)

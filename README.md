@@ -22,3 +22,9 @@
 
 [Nakamoto, Satoshi. Bitcoin: A peer-to-peer electronic cash system. Manubot, 2019.](https://bitcoin.org/bitcoin.pdf)
 
+[Hunt, Galen, George Letey, and Ed Nightingale. "The seven properties of highly secure devices." tech. report MSR-TR-2017-16 (2017).](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SevenPropertiesofHighlySecureDevices.pdf)
+
+[Nineteen cybersecurity best
+practices used to implement the
+seven properties of highly
+secured devices in Azure Sphere](https://azure.microsoft.com/mediahandler/files/resourcefiles/best-practices-for-implementing-seven-properties-in-azure-sphere/Best%20practices%20for%20implementing%20seven%20properties%20in%20Azure%20Sphere_updated.pdf)

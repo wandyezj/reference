@@ -16,6 +16,8 @@
 
 [Armour, Phillip G. "The five orders of ignorance." Communications of the ACM 43, no. 10 (2000): 17-20.](https://raw.github.com/wandyezj/reference/master/five-orders-of-ignorance.pdf)
 
+[Flexner, Abraham "The Usefulness of Useless Knowledge" Harpers, Issue 179 (1939): 544-552.](https://raw.github.com/wandyezj/reference/master/the-usefulness-of-useless-knowledge.pdf)
+
 ## Links
 
 [Selingo, Story by Jeffrey. “The False Promises of Worker Retraining.” The Atlantic. Atlantic Media Company, January 8, 2018. https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/.](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/)

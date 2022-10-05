@@ -32,3 +32,7 @@
 practices used to implement the
 seven properties of highly
 secured devices in Azure Sphere](https://azure.microsoft.com/mediahandler/files/resourcefiles/best-practices-for-implementing-seven-properties-in-azure-sphere/Best%20practices%20for%20implementing%20seven%20properties%20in%20Azure%20Sphere_updated.pdf)
+
+## Original Links
+
+[The facts depend on where you are coming from](https://web.archive.org/web/20120629032909/http://www.btimes.co.za/97/0406/tech/tech6.htm)

@@ -18,6 +18,8 @@
 
 [Flexner, Abraham "The Usefulness of Useless Knowledge" Harpers, Issue 179 (1939): 544-552.](https://raw.github.com/wandyezj/reference/master/the-usefulness-of-useless-knowledge.pdf)
 
+[The facts depend on where you are coming from](https://raw.github.com/wandyezj/reference/master/the-facts-depend-on-where-you-are-coming-from.pdf)
+
 ## Links
 
 [Selingo, Story by Jeffrey. “The False Promises of Worker Retraining.” The Atlantic. Atlantic Media Company, January 8, 2018. https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/.](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/)

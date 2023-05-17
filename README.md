@@ -20,6 +20,8 @@
 
 [The facts depend on where you are coming from](https://raw.github.com/wandyezj/reference/master/the-facts-depend-on-where-you-are-coming-from.pdf)
 
+[System Does Matter](https://raw.github.com/wandyezj/reference/master/system-does-matter.pdf)
+
 ## Links
 
 [Selingo, Story by Jeffrey. “The False Promises of Worker Retraining.” The Atlantic. Atlantic Media Company, January 8, 2018. https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/.](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/)
@@ -36,3 +38,5 @@ secured devices in Azure Sphere](https://azure.microsoft.com/mediahandler/files/
 ## Original Links
 
 [The facts depend on where you are coming from](https://web.archive.org/web/20120629032909/http://www.btimes.co.za/97/0406/tech/tech6.htm)
+
+[System Does Matter](http://www.indie-rpgs.com/_articles/system_does_matter.html)

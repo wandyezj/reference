@@ -22,7 +22,9 @@
 
 [System Does Matter](https://raw.github.com/wandyezj/reference/master/system-does-matter.pdf)
 
-[The Freedom to Read](https://raw.github.com/wandyezj/reference/master/the-freedom-t-read.pdf)
+[The Freedom to Read](https://raw.github.com/wandyezj/reference/master/the-freedom-to-read.pdf)
+
+[Frankfurt, Harry G. On bullshit. Princeton University Press, 2005.](https://raw.github.com/wandyezj/reference/master/on-bullshit.pdf)
 
 ## Links
 

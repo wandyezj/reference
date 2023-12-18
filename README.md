@@ -26,7 +26,7 @@
 
 [Frankfurt, Harry G. On bullshit. Princeton University Press, 2005.](https://raw.github.com/wandyezj/reference/master/on-bullshit.pdf)
 
-[Kalven Committee. "Report on the university’s role in political and social action. 1967."](https://raw.github.com/wandyezj/reference/kalven-committee-report-on-the-universities-role-in-political-and-social-action.pdf)
+[Kalven Committee. "Report on the university’s role in political and social action. 1967."](https://raw.github.com/wandyezj/reference/master/kalven-committee-report-on-the-universities-role-in-political-and-social-action.pdf)
 
 ## Links
 

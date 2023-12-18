@@ -26,6 +26,8 @@
 
 [Frankfurt, Harry G. On bullshit. Princeton University Press, 2005.](https://raw.github.com/wandyezj/reference/master/on-bullshit.pdf)
 
+[Kalven Committee. "Report on the university’s role in political and social action. 1967."](https://raw.github.com/wandyezj/reference/kalven-committee-report-on-the-universities-role-in-political-and-social-action.pdf)
+
 ## Links
 
 [Selingo, Story by Jeffrey. “The False Promises of Worker Retraining.” The Atlantic. Atlantic Media Company, January 8, 2018. https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/.](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/)
